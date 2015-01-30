@@ -1,4 +1,4 @@
-Based on untyped lambda calculus
+Based on untyped (TODO polymorphically typed?) lambda calculus.
 The program is a function taking a function and returning a function (see higher-order function). In fact all subprograms of the program is by itself a function taking a function and returning a function.
 
 Input
